@@ -357,6 +357,18 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
+## Support the Project
+
+If you find this tool helpful, consider supporting its development:
+
+<a href="https://buymeacoffee.com/lokeshmotwani" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60">
+</a>
+
+Your support helps maintain and improve this project!
+
+---
+
 ## Star History
 
 If this project helped you, please consider giving it a star!
@@ -377,6 +389,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <p align="center">
   <strong>Found this useful? Give it a ⭐ on GitHub!</strong>
+  <br><br>
+  <a href="https://buymeacoffee.com/lokeshmotwani" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee">
+  </a>
 </p>
 
 ---
